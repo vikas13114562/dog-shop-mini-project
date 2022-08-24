@@ -1,0 +1,117 @@
+
+#title{
+    background-color: #78938A;
+    color:white;
+
+}
+.rotated{
+    width: 50%;
+    margin-left: 100px;
+    margin-top: 100px;
+
+    z-index: -1;
+    transform:rotate(25deg);
+}
+h1{
+    color: white;
+    font-size: 4rem;
+    padding: 4rem 2rem 1rem 2rem;
+    line-height: 1.5;
+}
+h2{
+    text-align:center;
+    font-size: 2rem;
+    line-height: 1.5;
+    padding:5%;
+    color: #fff;
+}
+.nav-item{
+    padding: 0 1rem 1rem 1rem;
+
+}
+
+.logo {
+    width: 70px;
+    height: 70px;
+    border-radius: 30px;
+}
+    
+
+.nav-link{
+    font-size: 1.25rem;
+    color:white;
+    }
+.navbar-brand{
+    padding: 0 0 0 1rem;
+    font-size: 3rem
+}
+#features{
+    padding: 6rem 0;
+    text-align: center;
+    position: relative;
+    background-color: #fff;
+}
+.icon{
+    color: #EC255A;
+    font-size: 3rem;
+    padding-bottom: 1rem;
+}
+.icon:hover{
+    color: #FFBBCC;
+}
+
+#testimonials{
+    background-color: #EC255A;
+
+    text-align: center;
+    color: #fff;
+}
+.testimonial-image{
+    width: 15%;
+    border-radius: 100%;
+}
+.carousel-item{
+    padding: 7% 10%;
+}
+/*Press Section*/
+#press{
+    background-color: #EC255A;
+    padding-bottom: 5%;
+    text-align: center;
+}
+.press-img{
+     width: 15%;
+     margin: 5px 20px 5px 20px;
+}
+.pricing{
+    margin: 1rem 0 1rem 2rem;
+    padding: 1%;
+    color: black;
+}
+.card-title{
+    color: #125D98;
+}
+#pricing{
+    padding: 2% 5% 5% 5%;
+}
+#cta{
+    padding:7% 3% 7%;
+    background-color: #EC255A;
+    text-align: center;
+    line-height: 1.5;
+}
+#footer{
+     padding:5% 3% 3%;
+
+    text-align: center;
+    line-height: 1.5;
+}
+.btn:hover{
+    color: green;
+}
+.footer-icon{
+    padding:2%;
+    }
+.footer-icon:hover{
+    color: blue;
+}
